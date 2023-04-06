@@ -1,4 +1,4 @@
-# vhs_appointment_finder
+# permanent_residence_appointment_finder
 This repo contains a Selenium script that automatically checks for Consultation appointments on the Volkshochschule Berlin Mitte Website (https://vhsmitte.flexappoint.de/#/). This website is used to book appointments for the "Leben in Deutschland" test, which is a prerequisite for obtaining the permanent residence or citizenship in Germany 
 
 # How it works?
@@ -7,6 +7,6 @@ it sends an E-mail notification. I created this script because I was fed up with
 
 ![image](https://user-images.githubusercontent.com/98691360/230377124-363ae693-4a53-4702-830f-cf49c8caf117.png)
 
-This is how the E-mail notification looks like...
+**This is how the E-mail notification looks like...**
 
 ![image](https://user-images.githubusercontent.com/98691360/230377260-c24212c2-db63-4d22-8c3d-76783620a382.png)
