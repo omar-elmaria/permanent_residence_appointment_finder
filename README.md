@@ -10,3 +10,7 @@ it sends an E-mail notification. I created this script because I was fed up with
 **This is how the E-mail notification looks like...**
 
 ![image](https://user-images.githubusercontent.com/98691360/230377260-c24212c2-db63-4d22-8c3d-76783620a382.png)
+
+**... and this is a video showing how the code runs**
+
+https://user-images.githubusercontent.com/98691360/230384502-a4f9d64f-0363-4e73-8f0e-5d80bf3a88b7.mp4
