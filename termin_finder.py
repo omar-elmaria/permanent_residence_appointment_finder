@@ -75,6 +75,9 @@ for iter in range(1, 7):
     
     # Proceed to the next month
     driver.find_element(by=By.XPATH, value="//div[@class='vfc-cursor-pointer']/div[@class='vfc-arrow-right']").click()
+
+    # Pause for a moment to prevent the appearence of false dates
+    time.sleep(2)
     
     # Wait until the date appears
     WebDriverWait(driver, 5).until(EC.presence_of_element_located((By.XPATH, "//div[@class='vfc-top-date vfc-center']/span")))
